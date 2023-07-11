@@ -27,7 +27,7 @@ global.CAPTION = '*© 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙚𝙙 𝘽𝙮 𝙍𝙎 �
 📌⭕ 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗣𝗥𝗢𝗩𝗜𝗗𝗘 𝗕𝗘𝗙𝗢𝗥𝗘 𝗗𝗘𝗣𝗟𝗢𝗬 𝗕𝗢𝗧 📌⭕
 > Ai Bot Password Get From Watching This Video 
 */
-global.AI_PASSWORD = ''
+global.AI_PASSWORD = 'king-nima-gpt-bot'
 global.SESSION_ID = ''
 
 /*
